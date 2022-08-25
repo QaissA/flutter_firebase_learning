@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892035394944",
+    "project_id": "mynotes-a195d",
+    "storage_bucket": "mynotes-a195d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892035394944:android:5fe7f6971f98cefecbe565",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892035394944-11tkamluqit0chemub8636eubuj07n25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxhwAOvZckGD1QI6aFIcdrRgOLqWrCj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892035394944-11tkamluqit0chemub8636eubuj07n25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
